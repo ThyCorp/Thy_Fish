@@ -1,2 +1,2 @@
 # Thy_Fish
-A fish tracker for creeks in New York State.
+A Creek, Lake, And Pond, Temp, Height, and Flow Tracker For Fishermen.
